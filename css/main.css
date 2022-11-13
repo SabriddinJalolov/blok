@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(164, 161, 161);
+}
+.wrapper {
+  display: flex;
+}
+.deniel_clifor {
+  width: 450px;
+  height: 220px;
+  margin-left: 16px;
+  background-color: rgb(19, 12, 227);
+  border-radius: 15px;
+}
+.jonatam_voltors {
+  width: 250px;
+  height: 220px;
+  margin-left: 16px;
+  background-color: rgb(75, 76, 81);
+  border-radius: 15px;
+}
+.kamron {
+  width: 250px;
+  height: 220px;
+  margin-left: 16px;
+  margin-top: 16px;
+  background-color: #ffff;
+  border-radius: 15px;
+}
+.patrik_abramis {
+  width: 450px;
+  height: 220px;
+  margin-left: 16px;
+  margin-top: 16px;
+  background-color: #000000;
+  border-radius: 15px;
+}
+.wrapper_ikki {
+  display: flex;
+}
+
+.kira_whitte {
+  width: 250px;
+  height: 455px;
+  margin-left: 16px;
+
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.main_section {
+  display: flex;
+  margin-top: 55px;
+  margin-left: 155px;
+}
